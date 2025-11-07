@@ -11,3 +11,6 @@ no，i can you
 来到这个世界，所以，你不该存活
 
 "This change is only on the feature-test branch"
+
+
+为什么世界如此残酷，我却要更加残酷对待
